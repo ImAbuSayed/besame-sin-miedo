@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bésame sin miedo
+
+This log tracks the cryptographic history and versioning for the song **Bésame sin miedo** (besame-sin-miedo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T21:51:41.559945 | `v1` | `271772a64f514ec6d5eb6a258fe55428d1e24595ebbdb1aa75a9c6900b0a1e1d` | `3de6a37b437fc8f769634f918f622647ea7d205a54fe51870c23fb49fd9bc1d4` | `2026-06-22_besame-sin-miedo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
