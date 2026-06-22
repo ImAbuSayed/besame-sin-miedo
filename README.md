@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besame-sin-miedo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bésame sin miedo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besame-sin-miedo/) |
+| **Get License** | [Get License For Bésame sin miedo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besame-sin-miedo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bésame sin miedo, olvida la razón
+> Esta noche sobra todo, solo hay tentación
+> Bésame sin miedo, acelera el corazón
+> Tú y yo perdiendo el vuelo en esta habitación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
